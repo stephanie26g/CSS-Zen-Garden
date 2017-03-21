@@ -1,0 +1,77 @@
+
+body { 
+	font: 80% arial;
+	line-height: 2;
+	color: white; 
+	margin: 10%; 
+	padding: 0
+    ;
+  text-align: center;
+    	background-color: #3f3f3f;
+	}
+header {
+    background: url('../assets/rocks.jpg'); 
+}
+ h1 { 
+	font: italic normal 4em Arial;
+	letter-spacing: 15px; 
+	margin-bottom: 0; 
+	color: #fff;
+  text-align: center;
+  background: #3f3f3f;
+    border-radius: 50%;
+  margin: 10%; 
+	padding: 15px 200px;
+	}
+
+h2 {
+  font-size: 3em;
+  background: #c9661e
+}
+
+h3 { 
+	font: normal 2.1em arial black;
+	letter-spacing: 10px; 
+	margin-bottom: 5%; 
+	color: #114a2f;
+  text-align: center;
+  background: #b6a496;
+    padding: 20px 100px;
+    border: 2px solid #c9661e;
+
+	}
+
+}
+a:link { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: #c9661e;
+  font: 1.1em arial;
+	}
+a:visited { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: #fff;
+  font: 1.1em arial;
+	}
+a:hover {
+    background:color: red;
+}
+
+.page-wrapper { 
+	position: relative;
+    width:90%
+	}
+
+.sidebar {
+  position: relative;
+}
+ul {
+  list-style-type: none;
+}
+.design-selection, .design-archives, .zen-resources  {
+    background-color: #c9661e;
+    width: 40%;
+    color: #114a2f;
+   
+}
